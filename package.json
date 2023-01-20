@@ -1,0 +1,26 @@
+{
+  "name": "ethereumbank",
+  "version": "1.0.0",
+  "description": "Java backend and corresponding Solidity smart contract",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LimJunxue/EthereumBank.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LimJunxue/EthereumBank/issues"
+  },
+  "homepage": "https://github.com/LimJunxue/EthereumBank#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.1",
+    "hardhat": "^2.12.6"
+  }
+}
